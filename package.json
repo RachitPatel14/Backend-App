@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  },
+  "scripts": {
+    "mongo": "node mongo.js root"
+  }
+}
